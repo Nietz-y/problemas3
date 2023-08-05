@@ -235,7 +235,7 @@ transform: scaleX(1);
 
 /* mediaquerie - inicio */
 
-@media (max-width: 1300px) {
+@media (max-width: 1200px) {
     .cabecalho {
         padding: 5% 2% 5% 2%;
         display: flex;
